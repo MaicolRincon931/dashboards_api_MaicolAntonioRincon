@@ -38,9 +38,11 @@ Para poner en marcha este proyecto en tu máquina local, sigue estos sencillos p
 
 1. **Clonar el repositorio:**
 
+        git clone https://github.com/MaicolRincon931/dashboards_api_MaicolAntonioRincon.git
+
 2. **Instalar Dependencias:**
 
-        cd 
+        cd dashboards_api_MaicolAntonioRincon
         npm install
 
         # o si usas yarn
@@ -48,6 +50,7 @@ Para poner en marcha este proyecto en tu máquina local, sigue estos sencillos p
 
 3. **Ejecutar la aplicación:**
 
-        npm start
+        npm run dev
         # o si usas yarn
-        # yarn start
+        # yarn run dev
+
